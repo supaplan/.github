@@ -23,3 +23,5 @@ Take Control of Your Time
 Take control of your time and focus on what matters most.
 
 Join the future of personal productivity. Experience the difference with SupaPlan.
+
+https://supaplan.ai
